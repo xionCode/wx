@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # filename: main.py
-import web
+import web, os
 from handle import Handle
 
 urls = (
